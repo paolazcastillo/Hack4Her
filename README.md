@@ -1,2 +1,2 @@
-# Hack4Her
-Materials for Hack4Her Hackathon. 
+# Hack4Her June 2026
+Personal materials for Hack4Her Hackathon. 
